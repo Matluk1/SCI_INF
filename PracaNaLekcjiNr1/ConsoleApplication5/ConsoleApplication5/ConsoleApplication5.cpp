@@ -72,12 +72,7 @@ int main()
 
 
 
-/*int wybor;
-cout << "Wybierz Szyfrowanie " << endl;
-cout << "[1] Szyfr Cezara" << endl;
-cout << "[2] Szyfr przestawieniowy" << endl;
-cout << "[3] Szyfr podstawieniowy " << endl;
-cin >> wybor;*/
+
 
 
 
